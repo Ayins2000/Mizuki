@@ -365,9 +365,9 @@ export const navBarConfig: NavBarConfig = {
 	],
 };
 
-/*export const profileConfig: ProfileConfig = {
+export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "这个效果好好看",
+	name: "好看",
 	bio: "和一位，，，",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
@@ -377,9 +377,9 @@ export const navBarConfig: NavBarConfig = {
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/3546923162143149",
 		},
-		{
+/*		{
 			name: "Gitee",
 			icon: "mdi:git",
 			url: "https://gitee.com/matsuzakayuki",
@@ -398,10 +398,10 @@ export const navBarConfig: NavBarConfig = {
 			name: "Discord",
 			icon: "fa7-brands:discord",
 			url: "https://discord.gg/MqW6TcQtVM",
-		},
+		},*/
 	],
 };
-*/
+
 export const licenseConfig: LicenseConfig = {
 	enable: true,
 	name: "CC BY-NC-SA 4.0",
