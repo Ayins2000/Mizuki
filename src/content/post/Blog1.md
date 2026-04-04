@@ -2,7 +2,7 @@
 title: 如何使用Cloudflare免费的pages功能和Github的仓库搭建一个基于Astor的静态博客
 published: 2025-01-20
 pinned: false
-description:这是一篇介绍人如何搭建自己博客的文章
+description: 这是一篇介绍人如何搭建自己博客的文章
 category: Examples
 licenseName: "Unlicensed"
 author:Ayin
