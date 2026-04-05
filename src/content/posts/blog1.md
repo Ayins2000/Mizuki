@@ -2,7 +2,7 @@
 title: Markdown Tutorial
 published: 2025-01-20
 pinned: true
-description: A simple example of a Markdown blog post.
+description: A simpl
 tags: [Markdown, Blogging]
 category: Examples
 licenseName: "Unlicensed"
