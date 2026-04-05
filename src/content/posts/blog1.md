@@ -1,5 +1,6 @@
 ---
 title: "Markdown Tutorial"
+published: 2025-01-20
 date: 2025-01-20
 categories: "随笔"
 description: "A simple example of a Markdown tutorial"
