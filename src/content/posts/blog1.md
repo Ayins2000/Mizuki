@@ -1,19 +1,12 @@
 ---
-title: Markdown Tutorial
-published: 2025-01-20
-pinned: true
-description: A simpl
-tags: [Markdown, Blogging]
-category: Examples
-licenseName: "Unlicensed"
-author: emn178
-sourceLink: "https://github.com/emn178/markdown"
-draft: false
+title: "Markdown Tutorial"
 date: 2025-01-20
-image: "./cover.png"
-pubDate: 2025-01-20
-permalink: "encrypted-example"
+categories: "随笔"
+description: "A simple example of a Markdown tutorial"
+tags: ["Markdown", "Blogging"]
 ---
+
+这里是文章正文。
 
 # 如何使用Cloudflare免费的pages功能和Github的仓库搭建一个基于Astro的静态博客
 
