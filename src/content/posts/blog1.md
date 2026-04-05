@@ -1,13 +1,16 @@
 ---
-title: "如何使用Cloudflare免费的pages功能和Github的仓库搭建一个基于Astro的静态博客"
+title: Markdown Tutorial
 published: 2025-01-20
-pinned: false
-description: "这是一篇介绍如何搭建自己博客的文章"
-category: "Examples"
+pinned: true
+description: A simple example of a Markdown blog post.
+tags: [Markdown, Blogging]
+category: Examples
 licenseName: "Unlicensed"
-author: "Ayin"
+author: emn178
+sourceLink: "https://github.com/emn178/markdown"
 draft: false
 date: 2025-01-20
+image: "./cover.png"
 pubDate: 2025-01-20
 permalink: "encrypted-example"
 ---
